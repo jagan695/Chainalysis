@@ -23,3 +23,4 @@ The application should be up and running in your browser.
  - What are some other enhancements you would have made, if you had more time to do this implementation
  - I would have stored images in AWS S3 bucket instead of storing it locally.
   
+![Snapshot](https://user-images.githubusercontent.com/61249208/139344343-5a0558a5-1b21-40d2-a098-42a37406d3c7.PNG)
